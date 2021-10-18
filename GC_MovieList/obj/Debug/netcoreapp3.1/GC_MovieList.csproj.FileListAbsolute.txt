@@ -1,0 +1,14 @@
+C:\Users\RRaczak\source\repos\DevBuild\GC_MovieList\GC_MovieList\bin\Debug\netcoreapp3.1\GC_MovieList.exe
+C:\Users\RRaczak\source\repos\DevBuild\GC_MovieList\GC_MovieList\bin\Debug\netcoreapp3.1\GC_MovieList.deps.json
+C:\Users\RRaczak\source\repos\DevBuild\GC_MovieList\GC_MovieList\bin\Debug\netcoreapp3.1\GC_MovieList.runtimeconfig.json
+C:\Users\RRaczak\source\repos\DevBuild\GC_MovieList\GC_MovieList\bin\Debug\netcoreapp3.1\GC_MovieList.runtimeconfig.dev.json
+C:\Users\RRaczak\source\repos\DevBuild\GC_MovieList\GC_MovieList\bin\Debug\netcoreapp3.1\GC_MovieList.dll
+C:\Users\RRaczak\source\repos\DevBuild\GC_MovieList\GC_MovieList\bin\Debug\netcoreapp3.1\GC_MovieList.pdb
+C:\Users\RRaczak\source\repos\DevBuild\GC_MovieList\GC_MovieList\obj\Debug\netcoreapp3.1\GC_MovieList.csproj.AssemblyReference.cache
+C:\Users\RRaczak\source\repos\DevBuild\GC_MovieList\GC_MovieList\obj\Debug\netcoreapp3.1\GC_MovieList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RRaczak\source\repos\DevBuild\GC_MovieList\GC_MovieList\obj\Debug\netcoreapp3.1\GC_MovieList.AssemblyInfoInputs.cache
+C:\Users\RRaczak\source\repos\DevBuild\GC_MovieList\GC_MovieList\obj\Debug\netcoreapp3.1\GC_MovieList.AssemblyInfo.cs
+C:\Users\RRaczak\source\repos\DevBuild\GC_MovieList\GC_MovieList\obj\Debug\netcoreapp3.1\GC_MovieList.csproj.CoreCompileInputs.cache
+C:\Users\RRaczak\source\repos\DevBuild\GC_MovieList\GC_MovieList\obj\Debug\netcoreapp3.1\GC_MovieList.dll
+C:\Users\RRaczak\source\repos\DevBuild\GC_MovieList\GC_MovieList\obj\Debug\netcoreapp3.1\GC_MovieList.pdb
+C:\Users\RRaczak\source\repos\DevBuild\GC_MovieList\GC_MovieList\obj\Debug\netcoreapp3.1\GC_MovieList.genruntimeconfig.cache
